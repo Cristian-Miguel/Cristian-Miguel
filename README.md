@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Cristian Miguel Marin Barrera
+# Hi there! 👋 I'm Cristian Miguel
 
 I'm a **Computer Systems Engineer** specializing in **Software Engineering** and **Mobile Development**. I am passionate about building efficient and scalable software solutions, with experience in both frontend and backend development. Currently, I work as a **Jr Java Developer at FactureApp Inc.** and have worked on various projects utilizing a broad range of technologies.
 
