@@ -1,29 +1,30 @@
 # Hi there! 👋 I'm Cristian Miguel
 
-I'm a **Computer Systems Engineer** specializing in **Software Engineering** and **Mobile Development**. I am passionate about building efficient and scalable software solutions, with experience in both frontend and backend development. Currently, I work as a **Jr Java Developer at FactureApp Inc.** and have worked on various projects utilizing a broad range of technologies.
+I'm a **Computer Systems Engineer** specializing in **Software Engineering** and **Mobile Development**. I am passionate about building efficient, scalable software solutions and solving complex problems. Currently, I work as a **Jr Java Developer at FactureApp Inc.** where I design, develop, and optimize software modules.
 
 ## 🛠️ Skills & Technologies
 
-- **Advanced**: JavaScript, MySQL, HTML, Node.js, Git, Java, Hibernate
-- **Intermediate**: Flutter, C#, .NET Core, Scrum, React, Vue, Laravel, PHP, MS SQL Server, Express, CSS, Jaspersoft, GWT, GXT, JPA, SonarCloud, PhpUnit, Mockery, RESTful APIs, Servlets
-- **Elementary**: Kotlin, Python, Artificial Intelligence, Machine Learning, Javacc, C++
+- **Programming Languages**: Java, JavaScript, Python, SQL
+- **Databases**: MySQL, Microsoft SQL Server
+- **Frameworks & Tools**: React, Vue.js, Node.js, .NET Core, Hibernate, RESTEasy, JBoss, JasperSoft, HTML/CSS, Flutter, Laravel, Express, GWT, GXT, JPA, SonarCloud, PhpUnit, Mockery, Servlets
+- **Concepts**: Data Structures, Algorithms, Distributed Systems, Agile Methodologies
 
 ## 🌟 Featured Projects
 
-- **[Government Support Management Application](#)**: Developed a full-stack application using Laravel, PHP, MySQL, and more to manage support requests for a local government. Improved code performance by 30% through optimization and testing.
-- **[Blacklisted Individuals and PEP Identification System](#)**: Created a system using Vue.js, C#, and .NET Core to identify individuals on blacklists for money laundering. Reduced data processing time by 50% through efficient algorithms.
-- **[Caja Morelia Valladolid Modules](#)**: Developed and optimized front-end and back-end modules, designed RESTful endpoints, and created reports with JasperReports to enhance application performance.
+- **[Carta Porte Module Upgrade](#)**: Led the upgrade of a critical module to comply with new SAT requirements, enhancing error handling, field validation, and digital signatures.
+- **[Anti-Money Laundering Application](#)**: Developed a system to automate and secure the management of sensitive lists, reducing data processing time by 15%.
+- **[Government Support Management Application](#)**: Built a web app to digitize and streamline government processes, reducing manual effort by 80% and response times by 30%.
 
 ## 💼 Experience
 
 - **Jr Java Developer** - *FactureApp Inc.* *(Sept 2023 - Present)*
-  - Focus on developing Java-based applications and improving backend performance.
+  - Focus on developing Java-based applications, optimizing performance, and ensuring compliance with regulatory standards.
   
-- **Full Stack Developer** - *Caja Morelia Valladolid* *(Sept 2022 - March 2023)*
-  - Developed modules using Java, GWT, Hibernate, and optimized backend processes to improve response times.
+- **Full Stack Developer Intern** - *Caja Morelia Valladolid* *(Sept 2022 - March 2023)*
+  - Developed applications to enhance banking processes, focusing on security, efficiency, and compliance.
   
-- **Full Stack Developer - Degree Project** - *Instituto Tecnologico de Morelia* *(Aug 2021 - Aug 2022)*
-  - Created a government support management application using Laravel and PHP.
+- **Full Stack Developer** - *Degree Project at Instituto Tecnologico de Morelia* *(Aug 2021 - Aug 2022)*
+  - Developed a web application for government support programs, using Laravel, PHP, and MySQL.
 
 ## 🎓 Education
 
@@ -36,6 +37,10 @@ I'm a **Computer Systems Engineer** specializing in **Software Engineering** and
 - [LinkedIn](https://www.linkedin.com/in/cristian-miguel-marin-barrera-936803200)
 - [Portfolio](https://cristian-miguel.github.io/Portafolio/)
 - Email: cristian-m-97@hotmail.com
+
+## ✨ Additional Interests
+
+I enjoy exploring new technologies to solve real-world challenges.
 
 <!--
 **Cristian-Miguel/Cristian-Miguel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
