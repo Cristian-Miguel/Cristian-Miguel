@@ -11,9 +11,9 @@ I'm a **Computer Systems Engineer** specializing in **Software Engineering** and
 
 ## 🌟 Featured Projects
 
-- **[Carta Porte Module Upgrade](#)**: Led the upgrade of a critical module to comply with new SAT requirements, enhancing error handling, field validation, and digital signatures.
-- **[Anti-Money Laundering Application](#)**: Developed a system to automate and secure the management of sensitive lists, reducing data processing time by 15%.
-- **[Government Support Management Application](#)**: Built a web app to digitize and streamline government processes, reducing manual effort by 80% and response times by 30%.
+- **Carta Porte Module Upgrade**: Led the upgrade of a critical module to comply with new SAT requirements, enhancing error handling, field validation, and digital signatures.
+- **Anti-Money Laundering Application**: Developed a system to automate and secure the management of sensitive lists, reducing data processing time by 15%.
+- **Government Support Management Application**: Built a web app to digitize and streamline government processes, reducing manual effort by 80% and response times by 30%.
 
 ## 💼 Experience
 
