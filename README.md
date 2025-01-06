@@ -6,8 +6,8 @@ I'm a **Computer Systems Engineer** specializing in **Software Engineering** and
 
 - **Programming Languages**: Java, JavaScript, Python, SQL
 - **Databases**: MySQL, Microsoft SQL Server
-- **Frameworks & Tools**: React, Vue.js, Node.js, .NET Core, Hibernate, RESTEasy, JBoss, JasperSoft, HTML/CSS, Flutter, Laravel, Express, GWT, GXT, JPA, SonarCloud, PhpUnit, Mockery, Servlets
-- **Concepts**: Data Structures, Algorithms, Distributed Systems, Agile Methodologies
+- **Frameworks & Tools**: Spring boot, React, Vue.js, Node.js, .NET Core, Hibernate, RESTEasy, JBoss, JasperSoft, HTML/CSS, Flutter, Laravel, Express, GWT, GXT, JPA, SonarCloud, PhpUnit, Mockery, Servlets
+- **Concepts**: Data Structures, Algorithms, Distributed Systems, Agile Methodologies, Microservice
 
 ## 🌟 Featured Projects
 
