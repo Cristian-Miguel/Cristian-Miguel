@@ -1,58 +1,44 @@
 # Hi there! 👋 I'm Cristian Miguel
 
-I'm a **Computer Systems Engineer** specializing in **Software Engineering** and **Mobile Development**. I am passionate about building efficient, scalable software solutions and solving complex problems. Currently, I work as a **Jr Java Developer at FactureApp Inc.** where I design, develop, and optimize software modules.
+I'm a **Computer Systems Engineer** based in Morelia, Mexico, specializing in **Software Engineering** and **Mobile Development**. I am passionate about building efficient, scalable software solutions and optimizing system performance. 
+
+Currently, I work as a **Software Analyst/Developer at Secretaria de Educación Pública**, where I focus on process automation and data intelligence.
 
 ## 🛠️ Skills & Technologies
 
-- **Programming Languages**: Java, JavaScript, Python, SQL
+- **Programming Languages**: Java, JavaScript, Python, SQL, PHP
 - **Databases**: MySQL, Microsoft SQL Server
-- **Frameworks & Tools**: Spring boot, React, Vue.js, Node.js, .NET Core, Hibernate, RESTEasy, JBoss, JasperSoft, HTML/CSS, Flutter, Laravel, Express, GWT, GXT, JPA, SonarCloud, PhpUnit, Mockery, Servlets
-- **Concepts**: Data Structures, Algorithms, Distributed Systems, Agile Methodologies, Microservice
+- **Frameworks & Tools**: Spring Boot, React, Vue.js, Node.js, .NET, Hibernate, RESTEasy, JBoss, JasperSoft, Flutter, Laravel, SonarCloud, Postman, DigitalOcean
+- **Specialized Tech**: OCR-based extraction, PDF/Excel data processing, SAT government regulations (XML/Carta Porte)
+- **Methodologies**: Agile (Scrum, Kanban)
+- **Languages**: Spanish (Native), English (B2)
 
-## 🌟 Featured Projects
+## 🌟 Featured Projects & Achievements
 
-- **Carta Porte Module Upgrade**: Led the upgrade of a critical module to comply with new SAT requirements, enhancing error handling, field validation, and digital signatures.
-- **Anti-Money Laundering Application**: Developed a system to automate and secure the management of sensitive lists, reducing data processing time by 15%.
-- **Government Support Management Application**: Built a web app to digitize and streamline government processes, reducing manual effort by 80% and response times by 30%.
+- **Data Automation & OCR**: Developed Python-based scripts for automated data extraction from scanned PDF and Excel files, streamlining payroll and educational material distribution.
+- **Regulatory Compliance (Carta Porte)**: Led the upgrade of critical Java/JBoss modules to comply with government XML regulations, reducing error rates and optimizing response times by 20%.
+- **Anti-Money Laundering (AML) System**: Built a full-stack solution using Vue.js and .NET that reduced data processing time by 15% through optimized stored procedures.
+- **Government Support Management**: Developed a scalable Laravel application that reduced manual processing time by 80%.
 
 ## 💼 Experience
 
-- **Jr Java Developer** - *FactureApp Inc.* *(Sept 2023 - Present)*
-  - Focus on developing Java-based applications, optimizing performance, and ensuring compliance with regulatory standards.
+- **Software Analyst/Developer** - *Secretaria de Educación Pública* (May 2025 - Present)
+  - Leading automation efforts using Python for large-scale data handling and building internal applications to streamline administrative processes.
   
-- **Full Stack Developer Intern** - *Caja Morelia Valladolid* *(Sept 2022 - March 2023)*
-  - Developed applications to enhance banking processes, focusing on security, efficiency, and compliance.
+- **Jr Full Stack / Java Developer** - *Facture App* (Sept 2023 - May 2025)
+  - Developed and maintained mobile (Flutter) and web (Java) applications, managing API solutions and App Store/Play Store deployments.
   
-- **Full Stack Developer** - *Degree Project at Instituto Tecnologico de Morelia* *(Aug 2021 - Aug 2022)*
-  - Developed a web application for government support programs, using Laravel, PHP, and MySQL.
+- **Full Stack Intern** - *Caja Morelia Valladolid* (Sept 2022 - March 2023)
+  - Focused on automating manual data extraction for AML efforts using Vue.js and SQL Server.
 
 ## 🎓 Education
 
-- **Instituto Tecnológico de Morelia "José María Morelos y Pavón"**
-  - Graduate of Computer Systems Engineering with a specialization in Software Engineering and Mobile Development.
-  - Affiliated with the Academic Software Factory (FAS).
+- **Computer Systems Engineering** - *Instituto Tecnológico de Morelia*
+  - Specialized in Software Engineering and Mobile Development.
+  - Graduated: April 2023.
 
 ## 📫 Let's Connect!
 
-- [LinkedIn](https://www.linkedin.com/in/cristian-miguel-marin-barrera-936803200)
+- [LinkedIn](https://www.linkedin.com/in/cristian-miguel-marin-barrera-936803200/)
 - [Portfolio](https://cristian-miguel.github.io/Portafolio/)
-- Email: cristian-m-97@hotmail.com
-
-## ✨ Additional Interests
-
-I enjoy exploring new technologies to solve real-world challenges.
-
-<!--
-**Cristian-Miguel/Cristian-Miguel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Email**: cristian-m-97@hotmail.com
